@@ -34,8 +34,8 @@ This project is a visualization tool for different sorting algorithms. It allows
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/Visualizer.git
-   cd Visualizer
+   git clone https://github.com/SohaibDM/Sorting-Algorithms-Visualizer.git
+   cd Sorting-Algorithms-Visualizer
    
 2. **Install the required packages**:
    ```bash
